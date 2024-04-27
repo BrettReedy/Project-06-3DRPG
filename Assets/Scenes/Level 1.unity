@@ -6925,6 +6925,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -7779698370330090022, guid: 48bec0d066f975143a52cb897095b646,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Player","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Transform,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: -7779698370330090022, guid: 48bec0d066f975143a52cb897095b646,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -7779698370330090022, guid: 48bec0d066f975143a52cb897095b646,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 8985130656560416749}
     - target: {fileID: -5737952122939154740, guid: 48bec0d066f975143a52cb897095b646,
         type: 3}
       propertyPath: _data._json
@@ -6941,6 +6957,16 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 98b8e7717d0eaec45ab6d8472073ca92,
         type: 2}
+    - target: {fileID: -5153904058720725914, guid: 48bec0d066f975143a52cb897095b646,
+        type: 3}
+      propertyPath: m_Speed
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -5153904058720725914, guid: 48bec0d066f975143a52cb897095b646,
+        type: 3}
+      propertyPath: m_StoppingDistance
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7060538295491079827, guid: 48bec0d066f975143a52cb897095b646,
         type: 3}
       propertyPath: m_LocalPosition.x
