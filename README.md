@@ -14,8 +14,9 @@
 [1] The game includes terrain and/or obstacles
 [1] The game includes a hand-held item or weapon  with which the player can influence the world
 [2] The game has a clear objective
-[1] The game has a start and end screen
+[1] The game has a start and end screen with updated font types
+[1] The game has background music and sound effects to add to the juciness and game feel of the game.
 # References to resources used in the project
-I used Mixamo for my player character's model and animations, and used Kenny's Blaster Kits for the gun models. 
+I used Mixamo for my player character's model and animations, used Kenny's Blaster Kits for the gun models, Patrick de Arteaga for the background music, Freesound.org for the sound effects, and found the unique font using Google Fonts. 
 # Created by
 Brett Reedy
